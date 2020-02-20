@@ -1,0 +1,33 @@
+/*br {
+	<br>
+	<br>
+}*/
+
+/*use # for id*/
+#todo {
+	background: yellow;  	
+	border: 2px solid red;
+}
+
+/*. for classes*/
+.done {
+	text-decoration: line-through;
+}
+
+/*Use * to select every element of the page*/
+* {
+	border: 1px dashed lightgrey;
+}
+
+/*Descendant Selector*/
+/*Every Selector that's inside another Selector*/
+
+/*li objects inside ordered lists*/
+ol li {
+	text-decoration: underline;
+}
+
+/*li of unordered lists inside ordered lists*/
+ol ul li {
+	font-style: italic;
+}

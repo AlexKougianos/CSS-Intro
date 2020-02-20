@@ -1,0 +1,12 @@
+body {
+	background: #EDD9C7;
+	/*background: url(https://cdn.mos.cms.futurecdn.net/9fD3XAgaTUjwVunfqfCex8-970-80.jpg)*/
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/
+}
+
+/*All h3 tags are going to be this way*/
+h3 {
+	background: #C7DBED;
+	border: 1px dashed #4D545A;	
+}
